@@ -1,0 +1,32 @@
+        There is only one player, and there are two types of scores - the round score 
+        and the game score. 
+        
+        The game score will begin at 100, and the game will last for five rounds.
+        
+        At the beginning of the round, you will be given two random cards from a deck and they will 
+        be added together to make the player's round score. 
+        
+        From here, you have two options - draw another card to try to get their round score 
+        closer to 21, or they can end the round. 
+        
+        The player can draw as many cards as they want until they end the round or their round score exceeds 21.
+        At the end of the round, the difference between 21 and the round score is subtracted from the game score, 
+        and then the next round begins. 
+        
+        After the five rounds, the player is given their total score and their grade ;). Then the game is over!
+        
+        Card Type Values:
+        
+        Ace = 1
+          2 = 2
+          3 = 3
+          4 = 4
+          5 = 5
+          6 = 6
+          7 = 7
+          8 = 8
+          9 = 9 
+         10 = 10
+       Jack = 10
+      Queen = 10
+       King = 10
